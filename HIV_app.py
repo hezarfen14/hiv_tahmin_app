@@ -26,7 +26,7 @@ egitim_gecmisi = st.selectbox(
 
 medeni_durum = st.selectbox(
     "Marital Status",   # DİKKAT: Eğitimde böyleyse aynen böyle olmalı
-    ["UNMARRIED", "Married", "Widowed", "Divorced", "Cohabiting"]
+    ["Unmarried", "Married", "Widowed", "Divorced", "Cohabiting"]
 )
 
 uyusturucu_kullanimi = st.selectbox(
